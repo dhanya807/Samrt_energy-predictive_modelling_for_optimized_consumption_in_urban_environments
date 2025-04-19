@@ -4,7 +4,7 @@ This project explores energy consumption patterns and applies predictive modelin
 # Project Structure
 smart_energy_project/ 
 ├── ML1.ipynb # Exploratory Data Analysis and Feature Understanding and different  ML models
-├── ML2.ipynb # Predictive Modeling using ML Algorithms 
+├── ML2.ipynb # Predictive Modeling using ML Algorithms and LIME and SHAP
 ├── Time Series.ipynb # Time Series Forecasting Models 
 └── README.md # Project Documentation
 
