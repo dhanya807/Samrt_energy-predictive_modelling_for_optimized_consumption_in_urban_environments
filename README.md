@@ -1,7 +1,7 @@
 # Samrt_energy-predictive_modelling_for_optimized_consumption_in_urban_environments
 This project explores energy consumption patterns and applies predictive modeling techniques to optimize smart energy usage in urban environments. The goal is to use machine learning and time series analysis to anticipate energy demands and improve energy efficiency.
 
-Project Structure
+# Project Structure
 smart_energy_project/ 
 ├── ML1.ipynb # Exploratory Data Analysis and Feature Understanding and different  ML models
 ├── ML2.ipynb # Predictive Modeling using ML Algorithms 
